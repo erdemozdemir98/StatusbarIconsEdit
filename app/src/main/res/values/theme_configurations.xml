@@ -6,7 +6,7 @@
     <!--suppress CheckTagEmptyBody -->
     <string name="ThemeAuthorEmail"></string>
     <!-- Theme wallpaper source (must be raw) -->
-    <string name="ThemeWallpaperSource">http://pastebin.com/raw/TG4mFdXz</string>
+    <string name="ThemeWallpaperSource">https://hastebin.com/raw/umehupamur</string>
     <!-- Do your theme support substratum legacy? -->
     <!-- If you choose not to support legacy, then change the following line from -->
     <!-- 'true' to 'false' to hide your theme on the Play Store from any stock ROM-->
