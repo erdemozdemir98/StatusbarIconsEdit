@@ -1,12 +1,12 @@
 <resources>
     <!-- Theme name and author name -->
-    <string name="ThemeName">Substratum Template</string>
-    <string name="ThemeAuthor">Projekt Development</string>
+    <string name="ThemeName">mitUX</string>
+    <string name="ThemeAuthor">erdemozdemir98</string>
     <!-- Your email for bug reports (DEFAULT: empty) -->
     <!--suppress CheckTagEmptyBody -->
-    <string name="ThemeAuthorEmail"></string>
+    <string name="ThemeAuthorEmail">erdemozdemir@mail.com</string>
     <!-- Theme wallpaper source (must be raw) -->
-    <string name="ThemeWallpaperSource">http://pastebin.com/raw/TG4mFdXz</string>
+    <string name="ThemeWallpaperSource">https://hastebin.com/raw/umehupamur</string>
     <!-- Do your theme support substratum legacy? -->
     <!-- If you choose not to support legacy, then change the following line from -->
     <!-- 'true' to 'false' to hide your theme on the Play Store from any stock ROM-->
@@ -20,10 +20,9 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Change One</item>
-        <item>Change Two</item>
-        <item>Change Three</item>
-        <item>Change Four</item>
-        <item>Change Five</item>
+        <item>First release</item>
+        <item>Added LTE icons</item>
+        <item>Added CyanogenMod bootanimation and audio</item>
+        <item>Added fonts</item>
     </string-array>
 </resources>
